@@ -1,0 +1,3 @@
+[submodule "streamlit-image-coordinates"]
+	path = streamlit-image-coordinates
+	url = git@github.com:blackary/streamlit-image-coordinates.git
